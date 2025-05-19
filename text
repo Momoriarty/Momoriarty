@@ -1,0 +1,117 @@
+modul 10
+1.
+DECLARE
+    grade CHAR(2) := 'F';
+    status VARCHAR2(15);
+BEGIN
+    IF (grade = 'F') THEN 
+        status := 'Tidak Lulus';
+    ELSE
+        status := 'Lulus';
+    END IF;
+    DBMS_OUTPUT.PUT_LINE('status : ' || status);
+END;
+
+2. 
+BEGIN
+    FOR i IN 1..100 LOOP
+        iF MOD(i,2) = 0 THEN
+        DBMS_OUTPUT.PUT_LINE('Angka : ' || i || ' Genap');
+        ELSE 
+        DBMS_OUTPUT.PUT_LINE('Angka : ' || i || ' Ganjil');
+        END IF;
+    END LOOP;
+END;
+
+3.
+CREATE OR REPLACE PROCEDURE insertCustomer ( cc CHAR,  cn CHAR,  ct CHAR,  wa CHAR,  co CHAR,  gr NUMBER,  oa NUMBER,  ra NUMBER,  pa NUMBER,  outa NUMBER,  pn CHAR,  ac CHAR) IS
+BEGIN INSERT INTO CUSTOMER VALUES(cc, cn, ct, wa, co, gr, oa, ra, pa, outa, pn, ac);
+END
+
+CREATE OR REPLACE PROCEDURE insertOrder (onum NUMBER, oa NUMBER, adv NUMBER, odt DATE, cc CHAR, ac CHAR, descp VARCHAR2) IS
+BEGIN
+    INSERT INTO ORDERS VALUES(onum, oa, adv, odt, cc, ac, descp);
+END
+
+
+4. 
+CREATE OR REPLACE PROCEDURE deleteCustomer (cc CHAR) IS
+BEGIN
+DELETE FROM CUSTOMER WHERE cust_code = cc;
+END
+
+CREATE OR REPLACE PROCEDURE deleteOrder (onum NUMBER) IS
+BEGIN
+DELETE FROM ORDERS WHERE ord_num = onum;
+END
+
+MODUL 11
+1. 
+CREATE OR REPLACE FUNCTION statusKewarganegaraan (
+    negara IN VARCHAR2
+) RETURN VARCHAR IS
+    status VARCHAR(10);
+BEGIN
+    IF UPPER(negara) = 'INDONESIA' THEN
+        status := 'WNI';
+    ELSE
+        status := 'WNA';
+    END IF;
+    RETURN status;
+END;
+
+2.
+DECLARE
+    hasil VARCHAR(10);
+BEGIN
+    hasil := statusKewarganegaraan('Indonesia');
+    DBMS_OUTPUT.PUT_LINE('Status: ' || hasil);
+    
+    hasil := statusKewarganegaraan('Malaysia');
+    DBMS_OUTPUT.PUT_LINE('Status: ' || hasil);
+END;
+
+3.
+
+SELECT agent_code, working_area, country, statusKewarganegaraan(country) AS status_kewarganegaraan
+FROM agents;
+
+
+SELECT cust_code, cust_name, cust_country, statusKewarganegaraan(cust_country) AS status_kewarganegaraan
+FROM customer;
+
+4.
+DECLARE
+    CURSOR india_agents IS
+        SELECT agent_code, commission
+        FROM agents
+        WHERE UPPER(country) = 'INDIA';
+
+BEGIN
+    FOR agt IN india_agents LOOP
+        UPDATE agents
+        SET commission = agt.commission + (agt.commission * 0.05)
+        WHERE agent_code = agt.agent_code;
+    END LOOP;
+    
+    COMMIT;
+END;
+
+
+5.
+DECLARE
+    CURSOR wni_agents IS
+        SELECT agent_code, commission, country
+        FROM agents;
+
+BEGIN
+    FOR agt IN wni_agents LOOP
+        IF statusKewarganegaraan(agt.country) = 'WNI' THEN
+            UPDATE agents
+            SET commission = agt.commission + (agt.commission * 0.025)
+            WHERE agent_code = agt.agent_code;
+        END IF;
+    END LOOP;
+
+    COMMIT;
+END;
