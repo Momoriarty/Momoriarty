@@ -4,9 +4,9 @@
 
 <p align="center">
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ahsanmadan?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/ahsanmadan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/ahsanmadan"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/momoriarty?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/momoriarty?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/momoriarty"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 <!-- <p align="center">
   <code>
