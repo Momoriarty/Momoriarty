@@ -1,55 +1,80 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Momoriarty%20🌻&width=800&height=400" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!%20👋&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Momoriarty,%20a%20Passionate%20Web%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
-<h1 align="center">Hi there, I'm Momoriarty 👋</h1>
-<h3 align="center">A passionate web developer</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Creative+Thinker;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <img alt="Github Followers" src="https://img.shields.io/github/followers/momoriarty?label=Followers&style=social"> •
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/momoriarty?label=Stars&style=social"> •
-  <a href="https://github.com/sponsors/momoriarty"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"></a>
+  <a href="mailto:Ar.wijaya1221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
+<br>
+
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="50%">
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>💻 I’m currently developing awesome web applications.</li>
+        <li>🌱 I’m constantly learning <b>React, Node.js, and Modern UI/UX</b>.</li>
+        <li>🤝 I’m open to collaborating on open-source projects.</li>
+        <li>💬 Ask me about <b>HTML, CSS, JavaScript & PHP</b>.</li>
+        <li>⚡ <b>Fun fact:</b> I love exploring new technologies and writing clean code!</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoriarty&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Awesome Web Projects**
-- 🌱 I’m currently learning **Advanced Web Development**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML, CSS, JS, and PHP**
-- 📫 How to reach me: **Ar.wijaya1221@gmail.com** *(ubah dengan email Anda)*
-
----
-
-### 🛠️ Languages and Tools
-
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Anda bisa menambahkan ikon lain seperti react, nodejs, python, dll. -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,nodejs,tailwind,bootstrap,git,github,vscode,figma&perline=7" alt="Skills" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=momoriarty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momoriarty&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoriarty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=momoriarty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoriarty&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoriarty&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momoriarty&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="98%" />
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
 
 <p align="center">
-  <!-- Ini akan menghitung jumlah orang yang mengunjungi profil GitHub Anda -->
-  <img src="https://komarev.com/ghpvc/?username=momoriarty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=momoriarty&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile views" />
 </p>
