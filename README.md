@@ -1,40 +1,27 @@
 <div align="center">
-  <!-- Banner utama dengan gaya Waving & gradasi warna yang cerah -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=M%20O%20M%20O%20R%20I%20A%20R%20T%20Y%20✨&fontSize=70&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20creative%20coding%20space!&descAlignY=55&descAlign=50" alt="Banner" width="100%"/>
+  <!-- Banner utama dengan gaya Waving, tapi tinggi lebih ramping (150px) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=M%20O%20M%20O%20R%20I%20A%20R%20T%20Y%20✨&fontSize=45&animation=twinkling&fontAlignY=40" alt="Banner" width="100%"/>
 </div>
 
-<!-- Animasi teks mengetik yang ramai & penuh warna -->
+<!-- Animasi teks mengetik yang pas ukurannya -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=🚀+Full-Stack+Web+Developer;🎨+UI%2FUX+Design+Enthusiast;💻+Open-Source+Contributor;🔥+Turning+Coffee+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7768E&center=true&vCenter=true&width=500&height=35&lines=🚀+Full-Stack+Web+Developer;🎨+UI%2FUX+Design+Enthusiast;💻+Open-Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Badges Sosial Media & Status yang Ramai -->
+<!-- Badges Sosial Media, Statistik, dan GIF Pixel Art Digabung Menjadi Satu Baris Padat -->
 <p align="center">
-  <a href="mailto:Ar.wijaya1221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://telegram.org/"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
-
-<!-- Stat badges kecil penambah keramaian -->
-<p align="center">
+  <img src="https://media.giphy.com/media/QssGEUOlQ8TaaIp19O/giphy.gif" width="30" />
+  <a href="mailto:Ar.wijaya1221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://img.shields.io/github/followers/momoriarty?label=Followers&style=flat-square&color=7AA2F7&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/momoriarty?label=Stars&style=flat-square&color=F7768E&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/momoriarty?label=Forks&style=flat-square&color=9ECE6A&logo=github" alt="Forks" />
   <img src="https://komarev.com/ghpvc/?username=momoriarty&label=Views&color=BB9AF2&style=flat-square" alt="Views" />
+  <img src="https://media.giphy.com/media/du3J3cHbgOIeYtVzE1/giphy.gif" width="30" />
 </p>
 
-<!-- GIF Pixel Art Lucu untuk memeriahkan suasana -->
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEUOlQ8TaaIp19O/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/L1R1TVr9tJqgUL7w82/giphy.gif" width="130" />
-  <img src="https://media.giphy.com/media/du3J3cHbgOIeYtVzE1/giphy.gif" width="70" />
-</div>
-
-<br>
 
 <table align="center" border="0" style="border: none;">
   <tr>
