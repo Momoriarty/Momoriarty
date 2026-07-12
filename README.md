@@ -38,10 +38,21 @@
 
 ---
 
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Momoriarty/Momoriarty/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Momoriarty/Momoriarty/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Momoriarty/Momoriarty/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,nodejs,tailwind,bootstrap,git,github,vscode,figma&perline=7" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,nodejs,tailwind,bootstrap,git,github,vscode,figma,laravel,vite,npm,postman&perline=9" alt="Skills" />
   </a>
 </p>
 
@@ -67,6 +78,13 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=momoriarty&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="98%" />
+</div>
+
+---
+
+<h2 align="center">⚡ Coding Humor</h2>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
 </div>
 
 <br>
