@@ -1,51 +1,129 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║               M O M O R I A R T Y   ✨                      ║ -->
+<!-- ║         Premium GitHub Profile — Tokyo Night Edition         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <!-- Banner utama dengan gaya Waving, tapi tinggi lebih ramping (150px) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=M%20O%20M%20O%20R%20I%20A%20R%20T%20Y%20✨&fontSize=45&animation=twinkling&fontAlignY=40" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF2,100:F7768E&height=200&section=header&text=M%20O%20M%20O%20R%20I%20A%20R%20T%20Y&fontSize=50&animation=twinkling&fontAlignY=35&fontColor=FFFFFF&desc=Building%20the%20web%2C%20one%20pixel%20at%20a%20time%20🚀&descSize=16&descAlignY=55&descColor=C0CAF5" alt="Banner" width="100%"/>
 </div>
 
-<!-- Animasi teks mengetik yang pas ukurannya -->
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7768E&center=true&vCenter=true&width=500&height=35&lines=🚀+Full-Stack+Web+Developer;🎨+UI%2FUX+Design+Enthusiast;💻+Open-Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=🚀+Full-Stack+Web+Developer;🎨+UI%2FUX+Design+Enthusiast;🔥+Open+Source+Contributor;⚡+Clean+Code+Advocate" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Badges Sosial Media, Statistik, dan GIF Pixel Art Digabung Menjadi Satu Baris Padat -->
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEUOlQ8TaaIp19O/giphy.gif" width="30" />
-  <a href="mailto:Ar.wijaya1221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://img.shields.io/github/followers/momoriarty?label=Followers&style=flat-square&color=7AA2F7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/momoriarty?label=Stars&style=flat-square&color=F7768E&logo=github" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=momoriarty&label=Views&color=BB9AF2&style=flat-square" alt="Views" />
-  <img src="https://media.giphy.com/media/du3J3cHbgOIeYtVzE1/giphy.gif" width="30" />
+  <a href="mailto:Ar.wijaya1221@gmail.com"><img src="https://img.shields.io/badge/-Email-F7768E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-BB9AF2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://github.com/momoriarty"><img src="https://img.shields.io/badge/-GitHub-C0CAF5?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/momoriarty?label=Followers&style=flat-square&color=7AA2F7&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/momoriarty?label=Stars&style=flat-square&color=F7768E&logo=github" alt="Stars" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=momoriarty&label=Profile+Views&color=BB9AF2&style=flat-square" alt="Views" />
+</p>
 
-<table align="center" border="0" style="border: none;">
+<br>
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li>💻 I’m currently developing awesome web applications.</li>
-        <li>🌱 I’m constantly learning <b>React, Node.js, and Modern UI/UX</b>.</li>
-        <li>🤝 I’m open to collaborating on open-source projects.</li>
-        <li>💬 Ask me about <b>HTML, CSS, JavaScript & PHP</b>.</li>
-        <li>⚡ <b>Fun fact:</b> I love exploring new technologies and writing clean code!</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoriarty&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px" />
+    <td width="55%" valign="top">
+
+### 🧑‍💻 &nbsp;About Me
+
+```yaml
+name: Momoriarty
+location: Indonesia 🇮🇩
+role: Full-Stack Web Developer
+
+currently:
+  🔭 building: awesome web applications
+  🌱 learning: React, Node.js, Modern UI/UX
+  🤝 open_to: open-source collaboration
+  💬 ask_me: HTML, CSS, JavaScript, PHP, Laravel
+
+fun_fact: >
+  I believe clean code is
+  the best documentation! ✨
+```
+
+</td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoriarty&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" width="320px" />
     </td>
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br>
 
----
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+  &nbsp;Tech Stack & Tools
+</h2>
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<div align="center">
+
+| 💻 Languages | 🎨 Frontend | ⚙️ Backend | 🛠️ Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,php&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm,postman&perline=4" /> |
+
+</div>
+
+<br>
+
+<!-- ═══════════════════ GITHUB TROPHIES ═══════════════════ -->
+<h2 align="center">
+  🏆 GitHub Trophies
+</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=momoriarty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">
+  📊 GitHub Analytics
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momoriarty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=F7768E&text_color=C0CAF5&ring_color=BB9AF2" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoriarty&theme=tokyonight&hide_border=true&background=00000000&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF2&sideLabels=C0CAF5&dates=565F89" alt="GitHub Streak" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momoriarty&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C0CAF5&line=7AA2F7&point=F7768E&area=true&area_color=7AA2F7" alt="Activity Graph" width="98%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<h2 align="center">
+  🐍 Contribution Snake
+</h2>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Momoriarty/Momoriarty/output/github-contribution-grid-snake-dark.svg">
@@ -54,52 +132,48 @@
   </picture>
 </div>
 
----
+<br>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,nodejs,tailwind,bootstrap,git,github,vscode,figma,laravel,vite,npm,postman&perline=9" alt="Skills" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=momoriarty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
+<!-- ═══════════════════ CODING HUMOR ═══════════════════ -->
+<h2 align="center">
+  😄 Random Dev Meme
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momoriarty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoriarty&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=565F89" alt="Jokes" />
 </div>
 
 <br>
 
+<!-- ═══════════════════ QUOTE ═══════════════════ -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momoriarty&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="98%" />
-</div>
-
----
-
-<h2 align="center">⚡ Coding Humor</h2>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <br>
 
+<!-- ═══════════════════ METRICS ═══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+  ```text
+  ⏰ Weekly Development Breakdown
+  ```
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=momoriarty&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5&layout=compact" alt="Wakatime Stats" width="60%" />
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=momoriarty&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile views" />
-</p>
+<br>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF2,100:F7768E&height=120&section=footer" alt="Footer" width="100%"/>
+</div>
+
+<div align="center">
+
+  ### 💜 Thanks for visiting! Let's connect and build something amazing together.
+
+  <img src="https://img.shields.io/badge/-Made%20with%20❤️%20by%20Momoriarty-0D1117?style=for-the-badge" alt="Made with love" />
+
+</div>
