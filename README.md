@@ -103,73 +103,33 @@ const momoriarty = {
   &nbsp;Tech Arsenal
 </h2>
 
-<details>
-<summary><b>💻 Languages — click to expand</b></summary>
-<br>
-<div align="center">
+<h4 align="center">💻 Languages</h4>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=dark" alt="Languages" />
   </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-F7768E?style=flat-square&logo=html5&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/CSS-Expert-7AA2F7?style=flat-square&logo=css3&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-E0AF68?style=flat-square&logo=javascript&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-7AA2F7?style=flat-square&logo=typescript&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/PHP-Advanced-BB9AF2?style=flat-square&logo=php&logoColor=white&labelColor=1A1B27" />
-</div>
-</details>
+</p>
 
-<details>
-<summary><b>🎨 Frontend — click to expand</b></summary>
-<br>
-<div align="center">
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
   </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-Learning-73DACA?style=flat-square&logo=react&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-Advanced-7AA2F7?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Bootstrap-Advanced-BB9AF2?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Vite-Intermediate-E0AF68?style=flat-square&logo=vite&logoColor=white&labelColor=1A1B27" />
-</div>
-</details>
+</p>
 
-<details>
-<summary><b>⚙️ Backend & Database — click to expand</b></summary>
-<br>
-<div align="center">
+<h4 align="center">⚙️ Backend & Database</h4>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql&theme=dark" alt="Backend" />
   </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-Learning-73DACA?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Laravel-Advanced-F7768E?style=flat-square&logo=laravel&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/MySQL-Advanced-7AA2F7?style=flat-square&logo=mysql&logoColor=white&labelColor=1A1B27" />
-</div>
-</details>
+</p>
 
-<details>
-<summary><b>🔧 Dev Tools — click to expand</b></summary>
-<br>
-<div align="center">
+<h4 align="center">🔧 Dev Tools</h4>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman&theme=dark" alt="Tools" />
   </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-Advanced-F7768E?style=flat-square&logo=git&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/VS_Code-Daily_Driver-7AA2F7?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Figma-Intermediate-BB9AF2?style=flat-square&logo=figma&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Postman-Advanced-E0AF68?style=flat-square&logo=postman&logoColor=white&labelColor=1A1B27" />
-</div>
-</details>
+</p>
 
 <br>
 
