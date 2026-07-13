@@ -10,7 +10,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=🚀+Full-Stack+Web+Developer;🎨+UI%2FUX+Design+Enthusiast;🔥+Open+Source+Contributor;⚡+Clean+Code+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=600&height=35&lines=🚀+Full-Stack+Web+Developer;🎨+UI%2FUX+Design+Enthusiast;🔥+Open+Source+Contributor;⚡+Clean+Code+Advocate" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,8 @@
 <br>
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -64,25 +65,46 @@ fun_fact: >
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <br>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
-  &nbsp;Tech Stack & Tools
+  🛠️ Tech Stack & Tools
 </h2>
 
-<div align="center">
+<h4 align="center">💻 Languages</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="Languages" />
+  </a>
+</p>
 
-| 💻 Languages | 🎨 Frontend | ⚙️ Backend | 🛠️ Tools |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,php&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm,postman&perline=4" /> |
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" alt="Frontend" />
+  </a>
+</p>
 
-</div>
+<h4 align="center">⚙️ Backend & Database</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql" alt="Backend" />
+  </a>
+</p>
+
+<h4 align="center">🔧 Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman" alt="Tools" />
+  </a>
+</p>
 
 <br>
+
+---
 
 <!-- ═══════════════════ GITHUB TROPHIES ═══════════════════ -->
 <h2 align="center">
@@ -97,9 +119,9 @@ fun_fact: >
 
 <br>
 
-<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 <h2 align="center">
   📊 GitHub Analytics
 </h2>
@@ -115,9 +137,9 @@ fun_fact: >
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=momoriarty&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C0CAF5&line=7AA2F7&point=F7768E&area=true&area_color=7AA2F7" alt="Activity Graph" width="98%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br>
+
+---
 
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 <h2 align="center">
@@ -133,6 +155,8 @@ fun_fact: >
 </div>
 
 <br>
+
+---
 
 <!-- ═══════════════════ CODING HUMOR ═══════════════════ -->
 <h2 align="center">
@@ -152,28 +176,15 @@ fun_fact: >
 
 <br>
 
-<!-- ═══════════════════ METRICS ═══════════════════ -->
-<div align="center">
-
-  ```text
-  ⏰ Weekly Development Breakdown
-  ```
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=momoriarty&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5&layout=compact" alt="Wakatime Stats" width="60%" />
-
-</div>
-
-<br>
-
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF2,100:F7768E&height=120&section=footer" alt="Footer" width="100%"/>
 </div>
 
-<div align="center">
+<p align="center">
+  <b>💜 Thanks for visiting! Let's connect and build something amazing together.</b>
+</p>
 
-  ### 💜 Thanks for visiting! Let's connect and build something amazing together.
-
-  <img src="https://img.shields.io/badge/-Made%20with%20❤️%20by%20Momoriarty-0D1117?style=for-the-badge" alt="Made with love" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Momoriarty-7AA2F7?style=for-the-badge" alt="Made with love" />
+</p>
